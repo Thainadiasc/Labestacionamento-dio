@@ -26,4 +26,4 @@ Sistema simples para gerenciar veículos em um estacionamento, permitindo:
 
 ## Autor
 
-Seu Nome Aqui
+Thainá Dias
